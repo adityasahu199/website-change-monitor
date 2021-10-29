@@ -1,25 +1,10 @@
-<p align="center">
- <img src="https://raw.githubusercontent.com/JuanmaMenendez/website-change-monitor/master/public/logo.png" alt="Website Change Monitor" width="300px">
-</p>
- 
+
  <h1 align="center"> Website Change Monitor </h1>
 
 <h3 align="center"> A small web app written in Node.js to monitor specific changes on a web page</h3>
 <br /> 
 
 <!--- BADGES-->
-
-<div align="center">
-    <img src="https://img.shields.io/badge/-website--monitor-blue.svg" alt="Website Monitor" />   
-    <a href="https://nodejs.org/en/">
-        <img src="https://img.shields.io/badge/node%40latest-%3E%3D%2010-brightgreen.svg" alt="NodeJS" /></a>   
-    <a href="https://GitHub.com/JuanmaMenendez/Website-Change-Monitor/graphs/commit-activity"> 
-        <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a>
-    <img src="https://img.shields.io/badge/contributions-welcome-orange.svg" alt="Contributions Welcome">
-    <a href="https://github.com/JuanmaMenendez/Website-Change-Monitor/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-</div>
-
 
 ## Features
 
