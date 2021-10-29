@@ -47,7 +47,7 @@ The App request the `urlToCheck` every `checkingFrequency` and if any of the `el
 
 ## Installation
 
-1. Clone this repo `git clone https://github.com/JuanmaMenendez/website-change-monitor.git`
+1. Clone this repo `git clone https://github.com/adityasahu199/website-change-monitor.git`
 
 2. Inside the "website-change-monitor" folder, run the command `npm install`
 
